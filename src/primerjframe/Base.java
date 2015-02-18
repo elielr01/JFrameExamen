@@ -1,7 +1,7 @@
 package primerjframe;
 
 /**
- * Base
+ * Base anasdasdjaslkjd
  *
  * Modela la definición de todos los objetos de tipo
  * <code>Base</code>
